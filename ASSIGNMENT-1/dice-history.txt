@@ -1,0 +1,5 @@
+Roll 1: Dice Rolled: 4
+Roll 2: Dice Rolled: 3
+Roll 3: Dice Rolled: 5
+Roll 4: Dice Rolled: 3
+Roll 5: Dice Rolled: 1
